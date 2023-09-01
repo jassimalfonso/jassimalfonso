@@ -1,6 +1,7 @@
+<img align="center" alt="Coding" width="700" src="https://media.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif">
 
+Hi there 👋
 <!--
-### Hi there 👋
 **jassimalfonso/jassimalfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif">
