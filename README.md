@@ -1,6 +1,6 @@
-<img align="center" alt="Coding" width="700" src="https://media.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif">
+<img align="center" alt="Coding" width="500" src="https://media.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif">
 
-Hi there 👋
+# Hey there, I'm Jassim! 👋
 <!--
 **jassimalfonso/jassimalfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
