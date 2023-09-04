@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="100%" height="100%" background-size="cover" src="./assets/pixel-art.gif">
 
-## Hey there, I'm Jassim! 👋
+# Hey there, I'm Jassim! 👋
 <!--
 **jassimalfonso/jassimalfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
